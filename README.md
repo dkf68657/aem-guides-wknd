@@ -43,7 +43,7 @@ Depending on your maven configuration, you may find it helpful to force the reso
 
 Or to deploy it to a publish instance, run
 
-    mvn clean install -PautoInstallSinglePackagePublish
+    mvn clean install -PautoInstallSinglePackagePublish 
 
 Or alternatively
 
